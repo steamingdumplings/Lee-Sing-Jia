@@ -7,9 +7,11 @@ The following will be the projects I have been working on (not inclusive of scho
 * ITbuggers
 * ElderConnect (located in DevPost)
 * GIT Python Puzzler Solver [CTF]
-* Interpoly Lag and Crash 6.0 documentation [CTF] ~coming soon~
+* Interpoly Lag and Crash 6.0 documentation [CTF] ~coming soon\~
 
 ---------------------------
-A glow in the dark Sing Jia
-Y3 Cybersecurity and Digital Forensic, Specialising in AI for Cybersecurity
+
+Lots of Blue Light,\
+Lee Sing Jia\
+Y3 Cybersecurity and Digital Forensic, Specialising in AI for Cybersecurity\
 Ngee Ann Polytechnic
